@@ -20,20 +20,22 @@ Most of my projects started as ideas I wanted to try out or problems I wanted to
 
 ## Projects
 
-Here are a few things I've been working on:
-
-### ALEXA
-A personal AI desktop assistant I'm building for Windows. It supports voice interaction, memory, and different AI models.
-
-Built with Rust, Tauri, React, TypeScript, and SQLite.
-
-### N-Trade
-A marketplace project where I've been working on the backend structure, APIs, and features like product management and ordering.
+Here are some projects I've worked on:
 
 ### MasterTech
-A website for a computer hardware business, built with Next.js and Firebase. It includes an admin panel for managing the website.
+A website for a computer hardware business, built with Next.js, TypeScript, and Firebase. It includes a product catalog and an admin panel for managing content.
 
 [Live Website](https://mastertech--master-tech-mtech-28723.europe-west4.hosted.app)
+
+### Syrentx
+A marketplace platform I developed with features such as product listings, user authentication, messaging, and mobile support.
+
+The application is published, but the source code is private.
+
+### ALEXA
+A personal AI desktop assistant I'm currently working on for Windows, using Rust, Tauri, React, and SQLite.
+
+It includes voice interaction, memory, and AI integration.
 
 ## Currently
 
