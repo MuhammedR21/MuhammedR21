@@ -1,47 +1,48 @@
-# Hi there, I'm Muhammed! 👋
+# Hi, I'm Muhammed 👋
 
-### Backend & Full-Stack Developer | Software Engineering Student
+I'm a Software Engineering student at OSTİM Technical University in Ankara, Türkiye.
 
-I'm a Software Engineering student at **OSTIM Technical University**, based in Ankara, Turkiye.
+I mainly work on backend and full-stack development. I also enjoy experimenting with AI integrations and building desktop applications.
 
-I enjoy designing backend architectures, building full-stack applications, and turning ideas into practical software solutions. I also explore AI integrations and desktop application development.
+Most of my projects started as ideas I wanted to try out or problems I wanted to solve.
 
-###  Tech Stack
+## Tech Stack
 
-**Languages:** TypeScript, JavaScript, Python, Rust, C#, C++, SQL
+**Languages:** TypeScript, JavaScript, Python, C#, C++, Rust, SQL
 
 **Frontend:** React, Next.js, Tailwind CSS
 
-**Backend:** FastAPI, REST APIs, Node.js, Firebase Cloud Functions
+**Backend:** FastAPI, REST APIs, Firebase Cloud Functions
 
-**Databases:** PostgreSQL / MySQL (experience to be confirmed), SQLite, MongoDB, Firebase Firestore
+**Databases:** SQLite, MySQL, MongoDB, Firebase Firestore
 
-**Tools & Platforms:** Git, GitHub, Tauri, Firebase, Capacitor
+**Other:** Git, Firebase, Tauri, Capacitor
 
-###  Featured Projects
+## Projects
 
-**ALEXA — AI Desktop Assistant**
+Here are a few things I've been working on:
 
-A Windows desktop AI assistant featuring voice interaction, persistent memory, cloud AI integration, and a native desktop interface.
+### ALEXA
+A personal AI desktop assistant I'm building for Windows. It supports voice interaction, memory, and different AI models.
 
-**N-Trade — Marketplace Platform**
+Built with Rust, Tauri, React, TypeScript, and SQLite.
 
-A marketplace software project with a modular backend architecture, domain-oriented design, and business workflows.
+### N-Trade
+A marketplace project where I've been working on the backend structure, APIs, and features like product management and ordering.
 
-**MasterTech — Web Commerce Platform**
+### MasterTech
+A website for a computer hardware business, built with Next.js and Firebase. It includes an admin panel for managing the website.
 
-A deployed Next.js web application featuring Firebase integration and an administration system.
+[Live Website](https://mastertech--master-tech-mtech-28723.europe-west4.hosted.app)
 
-*Project repositories and documentation are being prepared.*
+## Currently
 
-### Current Focus
+- Improving my backend development skills
+- Learning more about software architecture
+- Working on my existing projects and trying new ideas
 
-- Backend engineering and API design
-- Full-stack web development
-- Database design and software architecture
-- Building production-ready applications
+## Contact
 
-###  Connect With Me
+- Email: almuhammed204@gmail.com
+- LinkedIn: [Muhammed Muhammed](https://www.linkedin.com/in/muhammed-muhammed-171b58402/)
 
-- **GitHub:** https://github.com/MuhammedR21
-- **LinkedIn:** Coming soon
